@@ -31,7 +31,6 @@ h1 {
     background-color: #80c168;
     padding: 5px;
     border-radius: 5px;
-<<<<<<< Updated upstream
     box-shadow: 2px 3px #888888;
 }
 
@@ -56,8 +55,5 @@ p{
     text-indent: 20px;
     font-style: oblique;
     color: white;
-}
-=======
     box-shadow: 2px 1px #888888;
 }
->>>>>>> Stashed changes
