@@ -12,10 +12,11 @@ body {
 .link-button {
     text-decoration: none;
     color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
+    border: 2px solid gray;
+    background-color: #80c168;
     padding: 5px;
     border-radius: 5px;
+<<<<<<< Updated upstream
     box-shadow: 2px 3px #888888;
 }
 
@@ -25,3 +26,7 @@ p{
     font-style: oblique;
     
 }
+=======
+    box-shadow: 2px 1px #888888;
+}
+>>>>>>> Stashed changes
