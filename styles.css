@@ -23,6 +23,9 @@ h1 {
     height: 400px;
 
 }
+.image:hover{
+    border: 5px solid red;
+}
 
 .link-button {
     text-decoration: none;
