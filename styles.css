@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(42, 42, 42);
 }
 
 .image{
@@ -7,7 +7,9 @@ body {
     border-radius: 10px;
     height: 400px;
 }
-
+.image:hover{
+    
+}
 .link-button {
     text-decoration: none;
     color: black;
