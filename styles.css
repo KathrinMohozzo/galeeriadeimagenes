@@ -2,10 +2,25 @@ body {
     background-color: rgb(255, 255, 165);
 }
 
-.image{
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.imagen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
     border: 5px solid green;
     border-radius: 10px;
     height: 400px;
+
 }
 
 .link-button {
