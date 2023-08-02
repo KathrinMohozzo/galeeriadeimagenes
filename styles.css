@@ -20,11 +20,27 @@ body {
     box-shadow: 2px 3px #888888;
 }
 
+a:hover {
+  color: red;
+  font-weight: bold;
+}
+h1, h2 { 
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 35px;
+}
 p{
     font-family: Arial, Helvetica, sans-serif;
     text-indent: 20px;
     font-style: oblique;
-    
+    color: white;
 }
 =======
     box-shadow: 2px 1px #888888;
