@@ -17,3 +17,16 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+h1, h2 { 
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 35px;
+}
